@@ -1,7 +1,7 @@
 package com.codigtest.graphSearch;
 
 import java.io.*;
-import java.util.StringTokenizer;
+import java.util.*;
 
 public class BOJ1260 {
     static FastReader scan = new FastReader();
